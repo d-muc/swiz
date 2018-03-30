@@ -17,6 +17,6 @@ In general by generating upfront all combinations.
 
 # How to do it in D?
 
-By simply overriding opDispatch.
+By simply overriding opDispatch. Generate what you need, when you need it.
 
 Examples with tests: [vector.d](https://github.com/d-muc/swiz/blob/master/vector.d)
